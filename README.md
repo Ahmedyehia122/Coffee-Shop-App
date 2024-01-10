@@ -4,6 +4,12 @@
 
  ## 🚀 Getting Started
 
+  ## 📸 Screen Record
+ 
+<video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/80ad94d5-4b44-4e42-a723-1f8f7289096b
+"></video>
+
+
  ## 🏖️ Screenshots 
  
  <div>
