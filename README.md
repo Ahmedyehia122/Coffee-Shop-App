@@ -33,6 +33,9 @@
 
  #### provider: ^6.0.5
    [hive](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
+   ## 🤝 Contact With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyehia122/) 
 
    # 🌺🌸 Thank You For Your Time 🌸🌺 
 
