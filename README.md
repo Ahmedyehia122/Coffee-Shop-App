@@ -18,8 +18,7 @@
    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/5bf82d03-8df2-4165-8d4c-6397723b7f57" width="200" >
  </div>
  
-  <img src ="https://github.com/Ahmedyehia122/Coffee-Shop-App/assets/142153775/15296c97-8c2a-4eb2-bf28-50d6772a694e" width="200" >
-
+ 
  
  <div>
     <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/2a7aa933-ff1e-4c15-adcd-debd1c411cd7" width="200" >
