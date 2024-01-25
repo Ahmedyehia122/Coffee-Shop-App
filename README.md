@@ -3,11 +3,14 @@
  Application that offers a wide variety of coffee types, along with their names, prices, and quantities available.  
 
  ## 🚀 Getting Started
+ <br/>
 
   ## 📸 Screen Record
  
 <video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/80ad94d5-4b44-4e42-a723-1f8f7289096b
 "></video>
+
+<br/>
 
 
  ## 🏖️ Screenshots 
@@ -24,20 +27,41 @@
     <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/2a7aa933-ff1e-4c15-adcd-debd1c411cd7" width="200" >
    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/0545f356-85d5-495e-bf1d-e37b0ddce4c8" width="200" >
  </div>
+ 
+ <br/>
 
  ## 🛠 Dependencies
-
 
  #### google_nav_bar: ^5.0.6
    [google_nav_bar](https://pub.dev/packages/google_nav_bar) - A modern google style nav bar for flutter.
 
  #### provider: ^6.0.5
    [hive](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
-   ## 🤝 Contact With Me
+
+   <br/>
+   
+ ## 🖊️ Contributing
+
+- Contributions are welcome 💜
+- If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+  <br/>
+  
+ ## 🤝Contact With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyehia122/) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://www.ahmedyehia.122a@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033167761298)
 
-   # 🌺🌸 Thank You For Your Time 🌸🌺 
+<br/>
+
+## 💖 Support
+
+- If you find this tutorial useful or learned something from this code, consider showing some ❤️ by starring this repo.
+
+
+   # 🌺🌸 Thank You For Your Time 🌸🌺
+  
 
 
   
