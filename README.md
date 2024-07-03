@@ -3,6 +3,8 @@
  Application that offers a wide variety of coffee types, along with their names, prices, and quantities available.  
 
  ## 🚀 Getting Started
+ <img src ="https://github.com/Ahmedyehia122/Talkative/assets/142153775/2cfee339-bea8-4f32-903b-3a7ac41167ae"   >
+ 
  <br/>
 
   ## 📸 Screen Record
@@ -50,8 +52,7 @@
  ## 🤝Contact With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyehia122/) 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://www.ahmedyehia.122a@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033167761298)
+ 
 
 <br/>
 
